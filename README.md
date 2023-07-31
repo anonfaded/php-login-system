@@ -4,7 +4,7 @@
 
 Welcome to my PHP login responsive website repository! This repository contains the code for a PHP-based login system with a responsive design.
 
-# PhpMyAdmin Database:
+## PhpMyAdmin Database:
 The Mysql database name is "login". (without parentheses)
 
 ## Login Page Screenshot:
